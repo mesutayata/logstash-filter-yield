@@ -62,16 +62,19 @@ Output events:
 		"host" => "machine4711"
 		"name" => "cpu-user"
 		"value" => 42
+		"ip" => "10.1.2.3"
 	}
 	{
 		"host" => "machine4711"
 		"name" => "cpu-system"
 		"value" => 23
+		"ip" => "10.1.2.3"
 	}
 	{
 		"host" => "machine4711"
 		"name" => "memory-free"
 		"value" => 4711
+		"ip" => "10.1.2.3"
 	}
 
 ## Configuration
